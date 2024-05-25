@@ -27,7 +27,7 @@ With its sleek design and friendly appearance, the RSC can serve as an inviting 
 
 
 ### Software
-##### Raspbian GNU/Linux / AIY system image  
+##### Raspbian GNU/Linux / [AIY system image](https://github.com/google/aiyprojects-raspbian)  
 
 Current Libraries + Dependencies:
 * AIY API library
