@@ -21,4 +21,4 @@ Electronics Board info for RSC v1 (2023)
 
 ![](https://github.com/RobotStudyCompanion/RSC2023/blob/main/ElectroCircuits/breakoutboard_dev.PNG)
 
-![](https://github.com/RobotStudyCompanion/RSC2023/blob/main/ElectroCircuits/current_dev.jpg)
+![](https://github.com/RobotStudyCompanion/RSC2023/blob/main/ElectroCircuits/current_dev.PNG)
