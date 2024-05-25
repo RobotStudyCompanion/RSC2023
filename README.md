@@ -1,5 +1,6 @@
 # RSC2023
-Replication Package for RSC (Robotic Study Companion) v1 (2023)
+Replication Package for RSC (Robotic Study Companion) v1 (2023)  
+**Youtube playlist of [RSC demos](https://youtube.com/playlist?list=PL49qLAAzGgOxQGmKcBarU2cArTEF4M34z)**  
 
 
 # Robotic Study Companion (RSC)
