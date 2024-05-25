@@ -17,7 +17,7 @@ Electronics Board info for RSC v1 (2023)
 |3D Printing Filament                                                     |White & Blue PLA and White TPU                                                                                                                                                                                                                                    |20         |
 |Components: 9                                                            |Total Cost:                                                                                                                                                                                                                                                       |235.14     |
 
-![](https://github.com/RobotStudyCompanion/RSC2023/blob/main/ElectroCircuits/Schematic_RSC_breakout_board_2023-04-17.png)
+![](https://github.com/RobotStudyCompanion/RSC2023/blob/main/ElectroCircuits/Updated_Schematic_Oct2023.png)
 
 ![](https://github.com/RobotStudyCompanion/RSC2023/blob/main/ElectroCircuits/breakoutboard_dev.PNG)
 
