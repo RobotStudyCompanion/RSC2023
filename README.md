@@ -38,7 +38,7 @@ Current Libraries + Dependencies:
 
 
 ### Open Source License  
-* HARDWARE: CERN-OHL-S-2.0
-* SOFTWARE: APACHE
-* DOCUMENTATION: CC-BY-SA-4.0  
+* Hardware: CERN-OHL-S-2.0
+* Software: APACHE
+* Documentation: CC-BY-SA-4.0  
 View License: https://certification.oshwa.org/ee000003.html
