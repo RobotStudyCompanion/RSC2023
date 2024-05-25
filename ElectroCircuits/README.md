@@ -16,3 +16,9 @@ Electronics Board info for RSC v1 (2023)
 |Logic Level Shifter                                                      |4-Channel, Bidirectional; translates voltage logic level signals:  5V (peripherals) to 3.3V (RPi). Allows RPi to communicate with peripherals.                                                                                                                    |3          |
 |3D Printing Filament                                                     |White & Blue PLA and White TPU                                                                                                                                                                                                                                    |20         |
 |Components: 9                                                            |Total Cost:                                                                                                                                                                                                                                                       |235.14     |
+
+![](https://github.com/RobotStudyCompanion/RSC2023/blob/main/ElectroCircuits/Schematic_RSC_breakout_board_2023-04-17.png)
+
+![](https://github.com/RobotStudyCompanion/RSC2023/blob/main/ElectroCircuits/breakoutboard_dev.PNG)
+
+![](https://github.com/RobotStudyCompanion/RSC2023/blob/main/ElectroCircuits/current_dev.jpg)
