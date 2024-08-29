@@ -23,9 +23,7 @@ if __name__ == '__main__':
 ### Button_listener.py file configuration:
 Ensure Your Script is Ready:
 Make sure your button_listener.py script is executable and located in /home/pi/.
-'''
 
-'''
 Create a systemd Service File:
 Open a terminal on your Raspberry Pi and create a new service file:
 bash
